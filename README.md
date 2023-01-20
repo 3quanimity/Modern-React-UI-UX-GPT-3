@@ -1,8 +1,11 @@
 # Modern React UI/UX GPT-3
 
-<!-- ### [Live Site](https://gpt3-jsm.com/) -->
+### [Live Preview](https://3quanimity.github.io/Modern-React-UI-UX-GPT-3/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+
+## Inspiration : 
+[Original Figma Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1)
 
 ## Covered alongside building the website:
 
