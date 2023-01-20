@@ -3,6 +3,7 @@
   flex-direction: column;
 
   padding: 2rem;
+  border-radius: 1rem;
   background: var(--color-footer);
 
   /* ff 3.6+ */
